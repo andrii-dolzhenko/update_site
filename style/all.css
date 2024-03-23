@@ -820,6 +820,8 @@ body{
     }
     .form{
         padding-top: 62px;
+        padding-left: 15px; !important;
+        padding-right: 15px; !important;
     }
     .find__program-button{
         width: initial !important;
