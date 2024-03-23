@@ -552,7 +552,7 @@ body{
         gap: 32px;
     }
     .learn {
-        padding: 68px 60px 68px 60px;
+        padding: 68px 60px 68px 60px; !important;
         gap: 68px;
     }
 }
@@ -910,11 +910,11 @@ body{
     }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
-    .designer {
+    .designer{
         flex-wrap: wrap;
         /*background: none !important;*/
-        padding-bottom: 0 !important;
-        margin-bottom: 0 !important;
+        /*padding-bottom: 0 !important;*/
+        /*margin-bottom: 0 !important;*/
         background-size: 557px 512px !important;
         background-position: right -102px top 470px !important;
 
@@ -950,7 +950,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    padding: 0 0 62px 0;
+    padding: 0;
     background: url(../img/courses_landing_page.png) no-repeat top 270px right -210px;
 }
 .designer__holder{
