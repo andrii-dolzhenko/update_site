@@ -1043,7 +1043,7 @@ body{
     line-height: 22px;
     font-weight: 600;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px){
     .profession {
         flex-wrap: wrap;
         padding: 68px 15px 68px 15px;
