@@ -950,7 +950,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    padding: 0;
+    padding: 0 0 60px 0;
     background: url(../img/courses_landing_page.png) no-repeat top 270px right -210px;
 }
 .designer__holder{
